@@ -1,0 +1,7 @@
+first step to developing api
+is to make a server connection
+then make the folder sturcture on mvc base
+then we make first models
+then we make controller 
+then we make router file
+also assigning path names with get requests 
